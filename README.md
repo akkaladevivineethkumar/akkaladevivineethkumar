@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Frontend, Reactjs**
+- 💬 Ask me about **Frontend, Reactjs, ReactNative**
 
 - 📫 How to reach me **akkaladevivineethkumar@gmail.com**
 
